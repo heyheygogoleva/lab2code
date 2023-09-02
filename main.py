@@ -2,7 +2,7 @@
 Вне класса прописаны вспомогательные функции
 """
 
-
+# heyheygogoleva privet s githaba
 
 import random
 import string
